@@ -1,2 +1,7 @@
-# prem-crack
-Crack Facebook Semua Negara Dengan Proses Crack Yang Sangat Cepat
+# USAGE
+```
+git clone https://github.com/Boy-Tolkit/prem-crack
+cd prem-crack
+ls
+python ok.py
+```
